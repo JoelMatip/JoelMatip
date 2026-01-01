@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Joel Matip
+# 👋 Hi, I’m Ajay K.S
 
 - 🔭 **Aspiring DevOps & Software Engineer** with a strong foundation in Python and cloud-native practices  
 - 👀 **Interests:** Building scalable applications, automation, and cloud deployment workflows  
